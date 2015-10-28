@@ -12,4 +12,4 @@ How are we going to solve this problem?
 
 # Solution
 
-#Refrences
+#References
