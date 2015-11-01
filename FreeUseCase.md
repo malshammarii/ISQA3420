@@ -2,7 +2,7 @@ Title: Determine License and Vulnerability Information
 
 Primary Actor: Corporate Manager
 
-Goal in Context: The corporate manager is able to determine license and vulnerability information from provided project information
+Goal in Context: The corporate manager is able to receive and analyze license and vulnerability information from the project information they receive.
 
 Stakeholders: Corporate Manager
 
