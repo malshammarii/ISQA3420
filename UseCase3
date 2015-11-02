@@ -1,15 +1,15 @@
-Title:
+Title: Send file/package through Version control/Build System.
 
-Primary Actor:
+Primary Actor: Corporate Developer
 
-Goal in Context:
+Goal in Context: Send file/package through Version Control/Build System to Manage Project Information.
 
-Stakeholders:
+Stakeholders: Corporate Developer, Corporate Manager
 
-Preconditions:
+Preconditions: File/package is successfully scanned through either SPDX database or through License Scanner/ NIST Database
 
-Main Success Scenario:
+Main Success Scenario: Corporate Manager receieves relevant project information from what the Corporate Developer submits.
 
-Failed End Conditions:
+Failed End Conditions: Corporate Manager receives incorrect information from project file.
 
-Trigger:
+Trigger: Corporate Developer uploads file/package to be Version Control/Build System process to be sent to Corporate Manager.
