@@ -1,16 +1,18 @@
-Title:
+Title: Corporate Developer to Manage Code Information
 
-Primary Actor:
+Primary Actor: Corporate Developer
 
-Goal in Context:
+Goal in Context: Corporate Developer successfully submits file/package to be checked
 
-Stakeholders:
+Stakeholders: Corporate Developer: Able to submit relevant file/package.
+              Corporate Manager: Receive relevant project information from file/package that was submitted
 
-Preconditions:
+Preconditions: Corporate Developer is able to submit relevent file/package
 
-Main Success Scenario:
+Main Success Scenario: Corporate Developer is able to submit file/package and have it checked through either the SPDX Database or check 
+through License Scanner & National Vulnerability Database and receive information.
 
-Failed End Conditions:
+Failed End Conditions: File/package is not able to be submitted
 
-Trigger:
+Trigger: Corporate Developer receives file/package that needs to be submitted.
 
