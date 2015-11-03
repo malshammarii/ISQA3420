@@ -2,11 +2,11 @@ Corporate Developer:
 
 Version Control/Build System:
 
-Manage Code Information:
+Manage Code Information: Used to mange code information for license information.
 
-License Scanner:
+License Scanner: Used to scan projects and files for lisences
 
-NIST CPE Information:
+NIST CPE Information: It is a database in which CPE information is stored.
 
 Manage CPE Information:
 
@@ -18,23 +18,23 @@ Manage Project Information:
 
 Corporate Manager:
 
-File/Package:
+File/Package: 
 
 Project File:
 
-License Info:
+License Info: Information about the licenses contained in a file/package
 
 Package Name:
 
 CPE Info:
 
-File SHA1 Request:
+File SHA1 Request: A hash file request to find the presence of a file.
 
 File SHA1 Response:
 
 File License and CPE Info:
 
-Project Info Request:
+Project Info Request: 
 
 Project Info Response:
 
