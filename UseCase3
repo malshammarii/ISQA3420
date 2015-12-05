@@ -10,6 +10,6 @@ Preconditions: File/package is successfully scanned through either SPDX database
 
 Main Success Scenario: Corporate Manager receieves relevant project information from what the Corporate Developer submits.
 
-Failed End Conditions: Corporate Manager receives incorrect information from project file.
+Failed End Conditions: Corporate Manager receives incorrect information from project file
 
 Trigger: Corporate Developer uploads file/package to be Version Control/Build System process to be sent to Corporate Manager.
