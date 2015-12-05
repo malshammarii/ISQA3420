@@ -12,7 +12,7 @@ Manage CPE Information:
 
 National Vulnerability Database: A U.S. government repository for vulnerability data of software that enables risk, compliance and vulnerability managements.
 
-SPDX Database:
+SPDX Database:A database in which all the information about the project is stored.
 
 Manage Project Information:
 
