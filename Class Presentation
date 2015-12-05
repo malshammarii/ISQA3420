@@ -1,1 +1,26 @@
-We are going to upload the power point presenation that we have to give in the class at the end of the project.
+# ISQA 3420 Semester Project
+  Thomas Jorgensen & Mohammed Alshammari
+## Executive Summary
+  - Problem: How do we manage the income of digital assets while abiding by copyrights and licenses?
+  - Solution: Create a system that allows us to automatically check assets against multiple databases and let us collect results.
+## Data Flow Diagram
+  - Model to represent the way our system works
+## Data Flow Diagram Dictionary
+  - Dictionary created to define terms in our DFD
+  - Sorted by type used in DFD
+## Entity Relationship Diagram
+  - Relationship between heirarchy of structures
+  - Document, Package, File
+## Sample Software Manifest & Policy Document
+  
+
+## Use Case 1
+
+
+## Use Case 2
+
+
+## Use Case 3
+
+
+## Github Repository
