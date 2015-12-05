@@ -8,7 +8,7 @@ License Scanner: Used to scan projects and files for lisences
 
 NIST CPE Information: It is a database in which CPE information is stored.
 
-Manage CPE Informaiion:
+Manage CPE Information:
 
 National Vulnerability Database: A U.S. government repository for vulnerability data of software that enables risk, compliance and vulnerability managements.
 
