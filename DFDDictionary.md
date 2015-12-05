@@ -22,7 +22,7 @@ File/Package:
 
 Project File:
 
-License Info: Information about the licenses contained in a file/package
+License Info: Information about the licenses contained in a file/package.
 
 Package Name:
 
