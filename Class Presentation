@@ -1,8 +1,6 @@
 # ISQA 3420 Semester Project
   Thomas Jorgensen & Mohammed Alshammari
-## Executive Summary
-  - Problem: How do we manage the income of digital assets while abiding by copyrights and licenses?
-  - Solution: Create a system that allows us to automatically check assets against multiple databases and let us collect results.
+## 
 ## Data Flow Diagram
   - Model to represent the way our system works
 ## Data Flow Diagram Dictionary
