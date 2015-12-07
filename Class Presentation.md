@@ -11,10 +11,13 @@
   Dictates how things are done
   Core to the working of the entire system.
 ##Takeaway
-  Working through an online medium has its positives and negatives.
-  Allows for centralized organization
+  - Corporations- Open Communities
+  - Contributing back to the community
+  - Corporate developer and manager
+  - Obtaining license and CVE reports
+  - Understood concepts of use cases, DFD, ERD, Software and policy document
 ##Experiences and Difficulties
-  Visio is a bad program and Microsoft should feel bad.
+  -Visio is a bad program and Microsoft should feel bad.
   Github is cool.
   
 
