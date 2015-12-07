@@ -8,8 +8,8 @@
   - Sorted by type used in DFD
 
 ##Sample Software Manifest & Policy Document
-  Dictates how things are done
-  Core to the working of the entire system.
+   Dictates how things are done
+   Core to the working of the entire system.
 ##Takeaway
   - Corporations- Open Communities
   - Contributing back to the community
@@ -17,7 +17,7 @@
   - Obtaining license and CVE reports
   - Understood concepts of use cases, DFD, ERD, Software and policy document
 ##Experiences and Difficulties
-  -Visio is a bad program and Microsoft should feel bad.
-  Github is cool.
+  - Visio is a bad program and Microsoft should feel bad.
+  - Github is cool.
   
 
