@@ -8,11 +8,10 @@
   - Sorted by type used in DFD
 ##Sample Software Manifest & Policy Document
   
-##Github Repository
-  Easy to work with. Everything is more or less laid out you're just filling in the blanks.
-
 ##Experiences and Difficulties
   Visio is a bad program and Microsoft should feel bad.
   Github is cool.
   
 ##Takeaway
+  Working through an online medium has its positives and negatives.
+  Allows for centralized organization
