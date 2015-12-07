@@ -6,11 +6,9 @@
 ##Data Flow Diagram Dictionary
   - Dictionary created to define terms in our DFD
   - Sorted by type used in DFD
-## 
 ##Sample Software Manifest & Policy Document
   
-
-
+##Use Case 1
 
 
 ##Use Case 2
