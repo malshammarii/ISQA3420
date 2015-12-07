@@ -8,17 +8,10 @@
   - Sorted by type used in DFD
 ##Sample Software Manifest & Policy Document
   
-##Use Case 1
-
-
-##Use Case 2
-
-
-##Use Case 3
-
-
 ##Github Repository
+  Easy to work with. Everything is more or less laid out you're just filling in the blanks.
 
 ##Experiences and Difficulties
-
+  Visio sucks.
+  
 ##Takeaway
