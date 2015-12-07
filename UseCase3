@@ -1,4 +1,4 @@
-Title: Send and post asset back to website.
+Title: Send and post code back to website.
 
 Primary Actor: Corporate Developer.
 
@@ -8,7 +8,7 @@ Stakeholders: Corporate Developer, Corporate Manager
 
 Corporate Developer: is able to receive accurate code from the Corporate Manager
 
-Corporate Manager: Send code to the Corporate Developer to post back to source if license requires it.
+Corporate Manager: Send code request to the Corporate Developer to post back to source if license requires it.
 
 Preconditions: Code is stored in the SPDX Database and can be retrieved by the Corporate Manager.
 
