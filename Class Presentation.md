@@ -12,6 +12,7 @@
   Easy to work with. Everything is more or less laid out you're just filling in the blanks.
 
 ##Experiences and Difficulties
-  Visio sucks.
+  Visio is a bad program and Microsoft should feel bad.
+  Github is cool.
   
 ##Takeaway
