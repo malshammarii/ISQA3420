@@ -1,15 +1,19 @@
-Title: Send file/package through Version control/Build System.
+Title: Send and post asset back to website.
 
 Primary Actor: Corporate Developer.
 
-Goal in Context: Send file/package through Version Control/Build System to Manage Project Information.
+Goal in Context: The Corporate Developer is able to receive code and redistribute the updated code back to the source..
 
 Stakeholders: Corporate Developer, Corporate Manager
 
-Preconditions: File/package is successfully scanned through either SPDX database or through License Scanner/ NIST Database
+Corporate Developer: is able to receive accurate code from the Corporate Manager
 
-Main Success Scenario: Corporate Manager receieves relevant project information from what the Corporate Developer submits.
+Corporate Manager: Send code to the Corporate Developer to post back to source if license requires it.
 
-Failed End Conditions: Corporate Manager receives incorrect information from project file
+Preconditions: Code is stored in the SPDX Database and can be retrieved by the Corporate Manager.
 
-Trigger: Corporate Developer uploads file/package to be Version Control/Build System process to be sent to Corporate Manager.
+Main Success Scenario: Corporate Developer is able to receive accurate and updated source code from Corporate Manager to post back to source site if license requires it.
+
+Failed End Conditions: Source code has not been committed by Corporate Developer, therefore Corporate Manager is not able to retrieve it.
+
+Trigger: Corporate Developer receives code from open source site, alters it, and commits it.
