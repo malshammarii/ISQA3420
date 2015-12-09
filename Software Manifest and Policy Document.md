@@ -7,7 +7,7 @@ http://cdn.top4top.co/i_310a2b9ba31.png
 
 #Document
       DocumentLicense: 
-      Author: Mohammed Alshammari, Tom Jorgenson
+      Author: Mohammed Alshammari, Tom Jorgensen
       Date Created: 11/29/2014
       
 #Package 
