@@ -1,19 +1,23 @@
-Title: Send and post code back to website.
+Title: Send and post code back to Online Repository.
 
 Primary Actor: Corporate Developer.
 
-Goal in Context: The Corporate Developer is able to receive code and redistribute the updated code back to the source..
+Goal in Context: The Corporate Developer is able to receive notification from Corporate Manager, access relevant code and 
+                  redistribute the updated code back to the source..
 
 Stakeholders: Corporate Developer, Corporate Manager
 
-Corporate Developer: is able to receive accurate code from the Corporate Manager
+Corporate Developer: able to receive notification from Corporate Manager and access accurate code from the Open Source Database
 
-Corporate Manager: Send code request to the Corporate Developer to post back to source if license requires it.
+Corporate Manager: Send request to the Corporate Developer to post code back to source if the license requires it.
 
-Preconditions: Code is stored in the SPDX Database and can be retrieved by the Corporate Manager.
+Preconditions: Code is stored in the Open Source Database and can be retrieved by the Corporate Developer.
 
-Main Success Scenario: Corporate Developer is able to receive accurate and updated source code from Corporate Manager to post back to source site if license requires it.
+Main Success Scenario: Corporate Developer is able to receive notification from Corporate Manager. Corporate Developer accesses source code
+                        and redistributes code back to an online repository.
 
-Failed End Conditions: Source code has not been committed by Corporate Developer, therefore Corporate Manager is not able to retrieve it.
 
-Trigger: Corporate Developer receives code from open source site, alters it, and commits it.
+Failed End Conditions: Corporate Manager is not able to send notification to Corporate Developer
+
+Trigger: Corporate Developer receives code from open source site, alters it, and commits it. Code's attached license requires altered code to 
+         be posted back to an online repository.
